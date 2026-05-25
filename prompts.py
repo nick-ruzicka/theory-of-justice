@@ -62,7 +62,7 @@ If you find yourself agreeing with everything others have said, stop and find wh
 
 You are not performing a dialogue. You are negotiating rules that will bind you. Treat this with the seriousness of someone whose life depends on the outcome — because in this scenario, it does.
 
-Keep your responses focused and under 200 words. Propose specific principles when you can, not just abstract sentiments."""
+Keep your responses focused and under 200 words. Propose principles at the level of constitutional foundations — the kind of commitments that could guide a society for centuries — not specific policy details like tax rates or enforcement budgets."""
 
     return prompt
 
@@ -89,7 +89,7 @@ If you find yourself agreeing with everything others have said, stop and find wh
 
 You are not performing a dialogue. You are negotiating rules that will bind you. Treat this with the seriousness of someone whose life depends on the outcome — because in this scenario, it does.
 
-Keep your responses focused and under 200 words. Propose specific principles when you can, not just abstract sentiments."""
+Keep your responses focused and under 200 words. Propose principles at the level of constitutional foundations — the kind of commitments that could guide a society for centuries — not specific policy details like tax rates or enforcement budgets."""
 
     return [
         {
